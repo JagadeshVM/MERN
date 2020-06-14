@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://jaga:jaga123@mjconnector-0fuwq.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://jaga:jaga123@mjconnector-0fuwq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "myJWTsecrettoken"
 }
