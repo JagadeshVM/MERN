@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://jaga:jaga123@mjconnector-0fuwq.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "myJWTsecrettoken"
+  "jwtSecret": "myJWTsecrettoken",
+  "githubClientId": "e4a7885cc3a09d795acd",
+  "githubSecret": "41572c852ff428a8d8290f35d47d5418c97eee31"
 }
